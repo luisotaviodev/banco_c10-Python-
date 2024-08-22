@@ -8,6 +8,6 @@ Este app é um sistema de banco embora simples, ele possui todas as operações 
 ## ⚙️ Funcionalidades
 - **SAQUE:** Realizar o saque de um valor.
   > Só é possivel realizar Saques de no máximo até 500 Reais.
-  > Existe um limite diário de Saques de **3**
+  > Existe um limite diário de **3** Saques 
 - **DEPÓSITO:** É possível Depositar somente valores inteiros e não é possivel realizar o depósito de valores nagativos ou zero.
 - **EXTRATO:** Lista contendo todos os *SAQUES** E **EXTRATO** realizados anteriormente.
